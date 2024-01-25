@@ -1,0 +1,2 @@
+hello
+this is scm class for group 25
