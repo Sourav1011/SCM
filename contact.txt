@@ -1,4 +1,5 @@
 hello
 this is scm class for group 25
 hello g25
+this is the revision of the subject of scm class
 
